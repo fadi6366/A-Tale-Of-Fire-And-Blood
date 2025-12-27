@@ -23,7 +23,7 @@ Here is the map of the known world 1700AC:
 
 ---
 
-## 🏴‍☠️ **The Black Flags**
+## 🏴‍☠️ **ARANIA - The Black Flags**
 
 - Elite, ancient border armies of Zevaria — symbol: black banners against silver spears
     
@@ -48,7 +48,7 @@ Here is the map of the known world 1700AC:
 
 ---
 
-## 🏺 **Sasanians (Iran)**
+## 🏺**ASSYRIA**
 
 - Powerful kingdom to the south
     
@@ -66,7 +66,7 @@ Here is the map of the known world 1700AC:
 
 ---
 
-### 🟪 **Indus Tribes:**
+### 🟪 **RIVERLANDS**
 
 - Semi-autonomous, buffer zone
     
@@ -77,7 +77,7 @@ Here is the map of the known world 1700AC:
 
 ---
 
-### 🟩 **Southern Tribes:**
+### 🟩 **NALANDIANS**
 
 - Allied with the **2nd World**
     
@@ -118,7 +118,7 @@ Here is the map of the known world 1700AC:
 
 *** 
 
-### 🟩 **2nd World (green):**
+### 🟩 **AZLARI**
 
 - Foreign superpower (America + allies)
     
@@ -129,7 +129,7 @@ Here is the map of the known world 1700AC:
 
 ---
 
-###  **Turks :**
+### **ANATOLE**
 
 - Autonomous, independent steppe confederation
     
@@ -146,7 +146,7 @@ Here is the map of the known world 1700AC:
 
 ---
 
-###  **Western Tribes :**
+###  **VARGOTH**
 
 - Fragmented clans & horse tribes beyond Zevaria’s western frontier
     
@@ -168,27 +168,26 @@ The west
 
 Vargoth – or the “western tribes,” but really a brutal northern kingdom with old wolf banners, frost-bound fjords, raiders and jarls.
 
-They’re officially enemies of Zevaria (and likely Orelia too), yet black-market trade and backdoor deals still happen.
+They’re officially enemies of Zevaria (and likely Azlari too), yet black-market trade and backdoor deals still happen.
 
 They’re the ones stirring trouble now: sending assassins or elite raiders across the border, testing the kingdom’s defenses.
 
 
-Kezhar – the Turkic-inspired power to the south or southeast.
+Anatole 
 
 Mostly neutral but fiercely protective of their trade routes.
 
 They might watch the Zevaria–Orelia rivalry carefully, playing both sides if it profits them.
 
 
-Caelara – your Rome analogue.
+Caelara 
 
 Former imperial glory, old stone cities, marble forums, legacies of conquest.
 
 They trade with both Zevaria and Orelia, selling fine cloth, wine, and bronze or silverwork.
 
 
-Bryndale – your Britain analogue.
-
+Bryndale 
 Green islands and stormy seas, known for wool, iron, and a stubborn independence.
 
 Merchant fleets cross eastward, trading with Zevaria’s coastal cities and even the Eastern Isles when the seas are calm.
@@ -196,13 +195,5 @@ Merchant fleets cross eastward, trading with Zevaria’s coastal cities and even
 
 
 
-
-Zevaria & Orelia: long-standing rivals with patches of trade, uneasy peace.
-
-Vargoth: old enemies of both, openly hostile but still part of the gray market.
-
-Caelara & Bryndale: profitable neutral traders; old allies at times, but driven by commerce more than loyalty.
-
-Kezhar: shrewd observers, selling to whoever pays, but careful not to get pulled into a northern war.
 
 
