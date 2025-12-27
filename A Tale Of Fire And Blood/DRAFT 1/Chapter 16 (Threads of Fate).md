@@ -1,4 +1,4 @@
-# Chapter 16 ( A shadow from the past)
+# Chapter 16 ( Threads of Fate)
 
 **Merrinvale, Capital of the Azlari Empire**
 
