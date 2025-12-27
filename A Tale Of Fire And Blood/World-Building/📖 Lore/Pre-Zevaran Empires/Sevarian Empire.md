@@ -1,0 +1,2 @@
+
+The ancestors of Zevarans. These were the people the Ashveil tribe originated from. When the Sevarian empire ended 1387 BCE. The Sevarian family was scattered. The main ruler executed when the Merds took over as the super power. The Ashveil roots go back to the last Sevarian ruler. That makes Zevarans the descendants of the Sevarian blood line. Zevaras the father of Arkan was the descendant of the last Sevarian Prince himself, who is said to have escaped when the Merds started the massacre of the royal family. 

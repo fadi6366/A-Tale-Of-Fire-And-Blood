@@ -1,0 +1,1 @@
+The tribe/family who rules the kingdom of [[Dawngard]]. Since 500 AC as a result to their services in the war of the dragon valley. 

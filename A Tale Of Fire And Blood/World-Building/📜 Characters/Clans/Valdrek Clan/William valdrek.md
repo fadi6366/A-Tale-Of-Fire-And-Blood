@@ -1,0 +1,1 @@
+lord of [[Valdrek]] clan. father of [[Fredrick Valdrek 2nd sister's lover and Arlen's best friend]]

@@ -1,0 +1,4 @@
+- Clans loyal to [[Tyrant king , Theron Zevaran]] and throne.
+- Lords, vassal kings & clans provide soldiers; feudal style
+- 5,000,000.
+- Includes [[Clans Loyal to Arlen]] 500,000.

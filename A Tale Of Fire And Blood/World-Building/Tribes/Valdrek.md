@@ -1,0 +1,3 @@
+- A warrior tribe dating back to 1400 AC.
+- Founded by Valdrek I, swearing loyalty to the [[Zevaran Dynasty]] he was gifted the lands on the border of [[Dawngard]] and [[Zevaria]] due to his bravery and successful ambush on a small [[Dawngard]] host in [[Dawngard rebellion and civil war]] .
+- [[📜 Tradition of Rewarding Valor]] It was by this tradition that, after the Dawngard rebellion three centuries ago, Valdrek I — whose daring ambush saved the capital from likely siege — was gifted border lands and the right to found what would become the Valdrek clan.

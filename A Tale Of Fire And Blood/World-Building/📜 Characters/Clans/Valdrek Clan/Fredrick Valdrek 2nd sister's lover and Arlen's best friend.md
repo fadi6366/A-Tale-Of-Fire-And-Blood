@@ -1,0 +1,2 @@
+- [[2nd Sister Victoria Zevaran (Lover of Lordson)]]'s lover.
+- Comes from a small warrior clan (not strong enough for the [[Tyrant king , Theron Zevaran]] to give them his daughter.)

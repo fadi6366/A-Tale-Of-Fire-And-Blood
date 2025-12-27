@@ -1,0 +1,1 @@
+wife of [[King Oristane Azrali]] and queen of [[ILANTIA]] and [[Azlari]] dynasty.

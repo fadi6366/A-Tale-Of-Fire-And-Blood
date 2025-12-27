@@ -1,0 +1,12 @@
+- Age 18  as of 1700 AC.
+- Daughter of Lord Cassimar Valenyra (high counciller of the king of the second world alliance).
+-   Half-Zevarian : Mother from a Zevarian noble family(now deceased)..
+- Spent 3 years in Eastern Isles studying Zevarian language, history, etiquette
+	- Learned basic blade work and self-defense
+	- Skilled at subtle interrogation & spycraft
+	- Well-read: history, diplomacy, poetry
+	- Trained in coded messaging & ciphers
+- [[3rd Son , Arlen Zevaran (Main character)]]	Potential love interest Fascinated, drawn to his mercy & doubt.
+- Keeps a small locket with family crest — symbol of her mother's memories.
+- Could be feeding small secrets home but hesitates as feelings deepen.
+- May question her father’s methods and the Second World’s goals if she sees mercy or humanity in Zevaria.

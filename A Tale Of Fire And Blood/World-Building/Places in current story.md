@@ -1,0 +1,14 @@
+- Zevaria
+- Zevaragrad
+- Pinereach
+- Sapphire rock
+- Dragonsweil
+- Greywatch
+- Serpent's nest
+- Shinobi Isles
+- Bayside Landing
+- Centaki Island
+- Nalandia
+- Dharan
+- Varak(Red River)
+

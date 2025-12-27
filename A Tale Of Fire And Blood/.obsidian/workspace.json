@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "69719bef26b2373b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b70d524e39132bac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0282c1b757b657b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DRAFT 1/Planning/Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18833e018c2215c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5924bb7c5a2c40c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5e298eec85291b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "678d9550e9294b88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " chap",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54506520b2d7454f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "68c87d52de79fd21",
+    "type": "split",
+    "children": [
+      {
+        "id": "40c206676a81285c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b10de10b78b4393f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DRAFT 1/Outline/Planning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Planning"
+            }
+          },
+          {
+            "id": "b0dba3464fa490ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Re-writing AI parts/Chapter 2 (Sons of Zevaran).md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 2 (Sons of Zevaran)"
+            }
+          },
+          {
+            "id": "cb58b6f3ffbd0672",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7a5502ef3ee8e76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Empire_of_the_Eternal_Throne/Clans/Valdrek.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Valdrek"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c0282c1b757b657b",
+  "lastOpenFiles": [
+    "Tales from the world of Fire and Blood/2350 AC",
+    "DRAFT 1/Chapter 10 (Along the road).md",
+    "Tales from the world of Fire and Blood/2350 AC/Untitled.md",
+    "Tales from the world of Fire and Blood",
+    "DRAFT 1/~WRL3697.tmp",
+    "DRAFT 1/~WRD3681.tmp",
+    "DRAFT 1/~WRL0005.tmp",
+    "DRAFT 1/~WRD0004.tmp",
+    "DRAFT 1/~WRL0003.tmp",
+    "DRAFT 1/~WRD0002.tmp",
+    "DRAFT 1/~WRL0001.tmp",
+    "DRAFT 1/~WRD0000.tmp",
+    "DRAFT 1/~$NUSCRIPT DRAFT 1.docx",
+    "DRAFT 1/Outline/Planning.md",
+    "DRAFT 1/Outline/Word count.md",
+    "DRAFT 1/Chapter 9 (When Two worlds meet - II).md",
+    "DRAFT 1/Chapter 8 (When Two worlds meet - I).md",
+    "DRAFT 1/Outline/Planned books.md",
+    "Random scenes, scrapped, potential story/CHAPTER 10 SCRAPPED SCENE ARLEN ELARIA.md",
+    "Random scenes, scrapped, potential story/CHAPTER 9 scrapped scene part Arlen and Elaria.md",
+    "World-Building/🏰 Places/Azlaria.md",
+    "DRAFT 1/Prologue.md",
+    "World-Building/Sigils.md",
+    "DRAFT 1/Chapter 7 (Brothers in twilight).md",
+    "DRAFT 1/Chapter 6 (The Path Ahead).md",
+    "World-Building/⚔ Armies & Factions/The Varangian Guard.md",
+    "Random scenes, scrapped, potential story/Prologue ideas.md",
+    "World-Building/Fire and Blood/Power system-(The story of the Pheonix and Blood Raven).md",
+    "Random scenes, scrapped, potential story/The Escape & Hunt for Truth.md",
+    "DRAFT 1/🕰 Timeline/🕰 Timeline(Calendar of fire).md",
+    "DRAFT 1/Chapter 5 (The Campfire Story).md",
+    "World-Building/Fire and Blood/Ogon, the Flamebringer..md",
+    "World-Building/World dynamics/MapChart_Map (1).png",
+    "World-Building/World dynamics/Screenshot 2025-08-18 121547.png",
+    "World-Building/World dynamics/Screenshot 2025-08-18 115914.png",
+    "World-Building/World dynamics/Screenshot 2025-08-17 133426.png",
+    "World-Building/World dynamics/Screenshot 2025-08-17 133413.png",
+    "World-Building/World dynamics/MapChart_Map_thwest.png",
+    "World-Building/Currency.md",
+    "DRAFT 1/Chapter 4 (Among the Waves).md",
+    "DRAFT 1/Outline/🕰 Chapter calender.md",
+    "DRAFT 1/Chapter 3 (Daughter of the Two shores).md",
+    "Setup/World dynamics/R.png",
+    "Untitled.canvas"
+  ]
+}

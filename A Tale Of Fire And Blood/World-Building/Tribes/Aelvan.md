@@ -1,0 +1,1 @@
+One of the great and highest rank tribes of the 2nd world, whose eldest son is first counciller of the king, has served the second world's rulers for over a century -- feared more than loved, known for sharp minds, poisoners' cunning, and iron loyalty to the crown.

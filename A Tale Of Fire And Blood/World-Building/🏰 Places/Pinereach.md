@@ -1,0 +1,1 @@
+[[Valdrek]] tribe house is there. It is heart of the territory given to them. Valdrek estate is also there.

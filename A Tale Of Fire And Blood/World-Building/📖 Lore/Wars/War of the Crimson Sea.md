@@ -1,0 +1,1 @@
+East isles [[Shinobi Isles]] were lost, the ruler of [[ILANTIA]] took them from [[Zevaran Dynasty]] in 1675 AC.

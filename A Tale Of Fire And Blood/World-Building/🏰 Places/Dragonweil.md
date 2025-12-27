@@ -1,0 +1,1 @@
+Capital of [[Dawngard]]. situated in dragon's bay.

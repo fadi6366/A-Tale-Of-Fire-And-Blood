@@ -1,0 +1,1 @@
+In 7 BCE, Arkan waged a small war against a neighboring tribe to rescue a woman of legendary beauty—later his wife. She had been kidnapped by a rival prince who intended to marry her by force. Arkan’s victory, and the rescue, became one of the most celebrated Ashveil legends. She and Arkan married the same year, two years before Zevaras’s death.

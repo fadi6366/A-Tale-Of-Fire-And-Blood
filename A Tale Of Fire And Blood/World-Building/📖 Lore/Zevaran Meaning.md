@@ -1,0 +1,1 @@
+“Zevaran” comes from Zevaras, the ancestor whose name meant ‘Crown’ or ‘Iron’ in the old imperial tongue. Thus, Zevaran means ‘those of the Crown’ or ‘the crowned bloodline.’”

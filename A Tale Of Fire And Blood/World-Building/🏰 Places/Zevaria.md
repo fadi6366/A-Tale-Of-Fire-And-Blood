@@ -1,0 +1,1 @@
+The entire land which [[Zevaran Dynasty]] rules. Short form the Zevaran Empire.

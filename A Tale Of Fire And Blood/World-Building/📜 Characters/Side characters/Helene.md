@@ -1,0 +1,1 @@
+The servant girl who likes [[3rd Son , Arlen Zevaran (Main character)]]
