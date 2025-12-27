@@ -132,4 +132,6 @@ Julia nodded, for a moment none of them spoke.
 
 "Now you'll make my cry," Maria answered with a smile, wiping her eye. And all the sisters embraced her. For a moment she forgot all that was going on in her life. 
 
+The next day, Maria met her family one last time before she entered the carriage. Elaria stood on the steps watching her embrace them all before leaving. She took a light breath, after Arlen the only person she became familiar was Maria. She then went inside, footsteps echoing in the silence.
+
 ***
