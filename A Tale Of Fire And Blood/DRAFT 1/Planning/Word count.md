@@ -17,3 +17,4 @@
 | 13      | Echoes from West           | 6      | 4376       |
 | 14      | Silence before the storm   | 6      | 5342       |
 | 15      | A Trail into Shadows       | 5      | 3301       |
+| 16      | Threads of Fate            | 2      | 1336       |
