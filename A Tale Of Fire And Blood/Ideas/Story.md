@@ -5,3 +5,8 @@
 	1. Arlen : you were a spy, shes not
 		1. elaria: she an elf
 		2. arlen: better than most of the humans
+
+
+# trifon camp attacked at night
+
+like vlad attacks mehmet in season 2 at night (rise of ottoman documentary)

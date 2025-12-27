@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World-Building/📖 Lore/Wars/Battle at the Serpent's Nest.md",
+                "file": "Ideas/Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Battle at the Serpent's Nest"
+              "title": "Story"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0282c1b757b657b",
+  "active": "5b924568d77ff7f9",
   "lastOpenFiles": [
-    "Ideas/book 1 ending.md",
-    "World-Building/📖 Lore/Wars/Battle at the Serpent's Nest.md",
+    "Ideas/Story.md",
     "DRAFT 1/Planning/Outline.md",
+    "World-Building/📖 Lore/Wars/Battle at the Serpent's Nest.md",
+    "Ideas/book 1 ending.md",
     "World-Building/World dynamics/Explained.md",
     "DRAFT 1/Planning/Word count.md",
     "DRAFT 1/Planning/alternate outline chapter 15 onwards.md",
@@ -220,7 +222,6 @@
     "World-Building/⚔ Armies & Factions/The Varangian Guard.md",
     "Random scenes, scrapped, potential story/Prologue ideas.md",
     "World-Building/Fire and Blood/Power system-(The story of the Pheonix and Blood Raven).md",
-    "Random scenes, scrapped, potential story/The Escape & Hunt for Truth.md",
     "World-Building/World dynamics/MapChart_Map (1).png",
     "World-Building/World dynamics/Screenshot 2025-08-18 121547.png",
     "World-Building/World dynamics/Screenshot 2025-08-18 115914.png",
