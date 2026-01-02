@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b70d524e39132bac",
+        "id": "14587584aaaa6bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "c0282c1b757b657b",
+            "id": "453a13c35a564477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Story.md",
+                "file": "World-Building/Creatures/Lunari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story"
-            }
-          },
-          {
-            "id": "5b924568d77ff7f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRAFT 1/Planning/Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outline"
+              "title": "Lunari"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,9 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b924568d77ff7f9",
+  "active": "453a13c35a564477",
   "lastOpenFiles": [
+    "World-Building/📜 Characters/Lunari/Seraphinya.md",
+    "World-Building/Creatures/Lunari.md",
+    "World-Building/Fire and Blood/Aurora of Luna(Moon).md",
+    "World-Building/📖 Lore/Ancient wars/The great war and the Cleansing.md",
+    "World-Building/📖 Lore/Ancient wars/The Great Civil War.md",
+    "World-Building/Fire and Blood/Ogon, the Flamebringer..md",
+    "World-Building/Creatures",
     "Ideas/Story.md",
+    "Tales from the world of Fire and Blood/The Traveller's Quest.md",
     "DRAFT 1/Planning/Outline.md",
     "World-Building/📖 Lore/Wars/Battle at the Serpent's Nest.md",
     "Ideas/book 1 ending.md",
@@ -206,7 +199,6 @@
     "DRAFT 1/~WRL0003.tmp",
     "DRAFT 1/~WRD0002.tmp",
     "DRAFT 1/~WRL0001.tmp",
-    "DRAFT 1/~WRD0000.tmp",
     "DRAFT 1/Outline/Planning.md",
     "DRAFT 1/Outline/Word count.md",
     "DRAFT 1/Chapter 9 (When Two worlds meet - II).md",
@@ -215,13 +207,6 @@
     "Random scenes, scrapped, potential story/CHAPTER 10 SCRAPPED SCENE ARLEN ELARIA.md",
     "Random scenes, scrapped, potential story/CHAPTER 9 scrapped scene part Arlen and Elaria.md",
     "World-Building/🏰 Places/Azlaria.md",
-    "DRAFT 1/Prologue.md",
-    "World-Building/Sigils.md",
-    "DRAFT 1/Chapter 7 (Brothers in twilight).md",
-    "DRAFT 1/Chapter 6 (The Path Ahead).md",
-    "World-Building/⚔ Armies & Factions/The Varangian Guard.md",
-    "Random scenes, scrapped, potential story/Prologue ideas.md",
-    "World-Building/Fire and Blood/Power system-(The story of the Pheonix and Blood Raven).md",
     "World-Building/World dynamics/MapChart_Map (1).png",
     "World-Building/World dynamics/Screenshot 2025-08-18 121547.png",
     "World-Building/World dynamics/Screenshot 2025-08-18 115914.png",

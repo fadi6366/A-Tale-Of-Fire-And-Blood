@@ -1,0 +1,3 @@
+ 
+
+ A race similar in appearance to the humans but different in nature. They have subtle markings below their eyes on the cheek bone, and skin slightly fairer than humans. Though they are called the ones touched by the moon but only the ones who have been chosen by Aetherwing have the powers and abilities of the [[Aurora of Luna(Moon)]]. The chosen one's markings on the face give a subtle glow when they recover their powers during the full moon. 

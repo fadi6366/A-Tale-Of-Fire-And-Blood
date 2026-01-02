@@ -6,7 +6,7 @@ But millenia later the light and warmth had started to fade, Ogon saw the world 
 
 Creatures:
 1. Dwarfs
-2. Elves
+2. Lunari
 3. Dragons
 4. Stonebanes
 5. Night dwellers.

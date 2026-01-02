@@ -14,4 +14,4 @@ It can't be unlocked or taken, you have it by birth. It's also based on the prin
 	1. Arrows enchantment means they'll freeze the target they're shot on. Retaining their original property of cutting through.
 	2. Swords, spears and other metal based weapons also can be enchanted.
 
-Unlike the other two Aetherwing has connections with the creatures, mainly elves not humans. The wielder can talk to Aetherwing in live time but it will seem they're self talking.
+Unlike the other two Aetherwing has connections with the creatures race Lunari, not humans. The wielder can talk to Aetherwing in live time but it will seem they're self talking.
