@@ -3,7 +3,7 @@ Nick name: Sera
 tries to Help Arlen after the ambush
 18 as of 1701 AC
 
-Seraphinya belongs to the [[Lunari]], characterized by a blend of elegance and agility. Her appearance,  emphasizes a bright blue and white color scheme with a distinctly elven aesthetic. 
+Seraphinya belongs to the [[Lunari]], characterized by a blend of elegance and agility. Her appearance,  emphasizes a bright blue and white color scheme with a distinctly Lunari aesthetic. 
 
 Here is a full description of her standard appearance:
 
