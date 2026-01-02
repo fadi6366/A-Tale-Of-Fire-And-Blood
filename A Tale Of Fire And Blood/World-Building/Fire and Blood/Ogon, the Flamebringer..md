@@ -5,11 +5,10 @@ The world was without a sun since the dawn of time. Everywhere was a dark long n
 But millenia later the light and warmth had started to fade, Ogon saw the world get colder and colder by the decade. At 6500 years he once again flew up, but this time bigger and stronger than before. He threw his flame at it again and this time the effect was near permanent. Enough for it to be going for hundreds and thousands of Millenia to come. Life had now started to thrive.
 
 Creatures:
-1. Dwarfs
-2. Lunari
-3. Dragons
-4. Stonebanes
-5. Night dwellers.
+
+1. Lunari
+2. Dragons
+3. Night dwellers.
 
 roamed the world. Ogon then lived on for a total of 10000 years, birth to death. Near his death he had grown to such a colossal size that modern day Zevaragrad will fall under his shadow if he ever had set foot near it.
 
