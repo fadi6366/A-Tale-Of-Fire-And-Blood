@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Outline"
             }
+          },
+          {
+            "id": "9e26d79cc8f8e986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DRAFT 1/Story/Chapter 17 (What remains...).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 17 (What remains...)"
+            }
+          },
+          {
+            "id": "fee92506b853eec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World-Building/📜 Characters/Lunari/Sera/Seraphinya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seraphinya"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,11 +198,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0af242c9526f2fb7",
+  "active": "9e26d79cc8f8e986",
   "lastOpenFiles": [
+    "World-Building/📜 Characters/Lunari/Sera/Seraphinya.md",
+    "DRAFT 1/Story/Chapter 17 (What remains...).md",
+    "DRAFT 1/Story/Chapter 15 (A Trail into Shadows).md",
+    "DRAFT 1/Planning/Outline.md",
     "DRAFT 1/Story/Prologue.md",
     "DRAFT 1/Story/Chapter 16 (Threads of Fate).md",
-    "DRAFT 1/Story/Chapter 15 (A Trail into Shadows).md",
     "DRAFT 1/Story/Chapter 14 (Silence before the storm).md",
     "DRAFT 1/Story/Chapter 13 (Echoes from West).md",
     "DRAFT 1/Story/Chapter 12 (The Court Day).md",
@@ -196,9 +228,6 @@
     "DRAFT 1/Chapter 1 (Battle of the Red River).md",
     "DRAFT 1/Chapter 3 (Daughter of the Two shores).md",
     "DRAFT 1/Chapter 2 (Sons of Zevaran).md",
-    "DRAFT 1/Chapter 10 (Along the road).md",
-    "DRAFT 1/Chapter 9 (When Two worlds meet - II).md",
-    "DRAFT 1/Chapter 8 (When Two worlds meet - I).md",
     "World-Building/World dynamics/MapChart_Map (1).png",
     "World-Building/World dynamics/MapChart_Map_thwest.png",
     "World-Building/World dynamics/Screenshot 2025-08-18 121547.png",
