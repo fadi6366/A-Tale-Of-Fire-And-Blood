@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFT 1/Story/Chapter 17 (What remains...).md",
+                "file": "DRAFT 1/Story/Chapter 15 (A Trail into Shadows).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 17 (What remains...)"
+              "title": "Chapter 15 (A Trail into Shadows)"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Seraphinya"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,13 +198,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0af242c9526f2fb7",
+  "active": "9e26d79cc8f8e986",
   "lastOpenFiles": [
     "DRAFT 1/Story/Chapter 17 (What remains...).md",
+    "DRAFT 1/Planning/Outline.md",
     "World-Building/📜 Characters/Lunari/Sera/Seraphinya.md",
     "DRAFT 1/Story/Chapter 14 (Silence before the storm).md",
     "DRAFT 1/Story/Chapter 15 (A Trail into Shadows).md",
-    "DRAFT 1/Planning/Outline.md",
     "DRAFT 1/Story/Prologue.md",
     "DRAFT 1/Story/Chapter 16 (Threads of Fate).md",
     "DRAFT 1/Story/Chapter 13 (Echoes from West).md",
