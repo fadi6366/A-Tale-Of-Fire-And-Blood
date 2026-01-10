@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14587584aaaa6bfb",
+        "id": "c68982c4db891cf3",
         "type": "tabs",
         "children": [
           {
-            "id": "453a13c35a564477",
+            "id": "0af242c9526f2fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFT 1/🕰 Timeline/🕰 Timeline(Calendar of fire).md",
+                "file": "DRAFT 1/Planning/Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🕰 Timeline(Calendar of fire)"
+              "title": "Outline"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 200
   },
   "right": {
     "id": "68c87d52de79fd21",
@@ -169,53 +169,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "453a13c35a564477",
+  "active": "0af242c9526f2fb7",
   "lastOpenFiles": [
-    "World-Building/📜 Characters/Lunari/🌙 LÚNAETH.md",
-    "DRAFT 1/🕰 Timeline/🕰 Timeline(Calendar of fire).md",
-    "World-Building/🌙 LÚNAETH.md",
-    "World-Building/Untitled",
-    "DRAFT 1/Planning/Outline.md",
-    "World-Building/📖 Lore/Ancient wars/The great war and the Cleansing.md",
-    "World-Building/📜 Characters/Lunari/Screenshot 2026-01-02 193702.png",
-    "World-Building/📜 Characters/Lunari/Seraphinya.md",
-    "World-Building/Creatures/Lunari.md",
-    "World-Building/Fire and Blood/Ogon, the Flamebringer..md",
-    "World-Building/📜 Characters/Lunari/Gemini_Generated_Image_7asv6z7asv6z7asv.png",
-    "World-Building/Fire and Blood/Aurora of Luna(Moon).md",
-    "World-Building/📖 Lore/Ancient wars/The Great Civil War.md",
-    "World-Building/Creatures",
-    "Ideas/Story.md",
-    "Tales from the world of Fire and Blood/The Traveller's Quest.md",
-    "World-Building/📖 Lore/Wars/Battle at the Serpent's Nest.md",
-    "Ideas/book 1 ending.md",
-    "World-Building/World dynamics/Explained.md",
-    "DRAFT 1/Planning/Word count.md",
-    "DRAFT 1/Planning/alternate outline chapter 15 onwards.md",
+    "DRAFT 1/Story/Prologue.md",
+    "DRAFT 1/Story/Chapter 16 (Threads of Fate).md",
+    "DRAFT 1/Story/Chapter 15 (A Trail into Shadows).md",
+    "DRAFT 1/Story/Chapter 14 (Silence before the storm).md",
+    "DRAFT 1/Story/Chapter 13 (Echoes from West).md",
+    "DRAFT 1/Story/Chapter 12 (The Court Day).md",
+    "DRAFT 1/Story/Chapter 11 (Home...).md",
+    "DRAFT 1/Story/Chapter 10 (Along the road).md",
+    "DRAFT 1/Story/Chapter 9 (When Two worlds meet - II).md",
+    "DRAFT 1/Story/Chapter 8 (When Two worlds meet - I).md",
+    "DRAFT 1/Story/Chapter 7 (Brothers in twilight).md",
+    "DRAFT 1/Story/Chapter 6 (The Path Ahead).md",
+    "DRAFT 1/Story/Chapter 5 (The Campfire Story).md",
+    "DRAFT 1/Story/Chapter 4 (Among the Waves).md",
+    "DRAFT 1/Story/Chapter 3 (Daughter of the Two shores).md",
+    "DRAFT 1/Story/Chapter 2 (Sons of Zevaran).md",
+    "DRAFT 1/Story/Chapter 1 (Battle of the Red River).md",
+    "DRAFT 1/Story",
+    "DRAFT 1/New folder",
+    "DRAFT 1/Chapter 15 (A Trail into Shadows).md",
     "DRAFT 1/Chapter 16 (Threads of Fate).md",
-    "DRAFT 1/Planning/Planned books.md",
-    "Tales from the world of Fire and Blood/2350 AC",
+    "DRAFT 1/Chapter 11 (Home...).md",
+    "DRAFT 1/Chapter 1 (Battle of the Red River).md",
+    "DRAFT 1/Chapter 3 (Daughter of the Two shores).md",
+    "DRAFT 1/Chapter 2 (Sons of Zevaran).md",
     "DRAFT 1/Chapter 10 (Along the road).md",
-    "Tales from the world of Fire and Blood/2350 AC/Untitled.md",
+    "DRAFT 1/Chapter 9 (When Two worlds meet - II).md",
+    "DRAFT 1/Chapter 8 (When Two worlds meet - I).md",
+    "World-Building/World dynamics/MapChart_Map (1).png",
+    "World-Building/World dynamics/MapChart_Map_thwest.png",
+    "World-Building/World dynamics/Screenshot 2025-08-18 121547.png",
+    "World-Building/World dynamics/Screenshot 2025-08-18 115914.png",
+    "World-Building/World dynamics/Screenshot 2025-08-17 133426.png",
+    "World-Building/World dynamics/Screenshot 2025-08-17 133413.png",
+    "World-Building/📜 Characters/Lunari/Sera/Screenshot 2026-01-02 193702.png",
+    "World-Building/📜 Characters/Lunari/Sera/Screenshot 2026-01-03 155409.png",
+    "World-Building/📜 Characters/Lunari/Sera/Gemini_Generated_Image_7asv6z7asv6z7asv.png",
+    "World-Building/Untitled",
+    "World-Building/📜 Characters/Lunari/Screenshot 2026-01-02 193702.png",
+    "World-Building/Creatures",
+    "Tales from the world of Fire and Blood/2350 AC",
     "Tales from the world of Fire and Blood",
     "DRAFT 1/~WRL3697.tmp",
     "DRAFT 1/~WRD3681.tmp",
     "DRAFT 1/~WRL0005.tmp",
     "DRAFT 1/~WRD0004.tmp",
-    "DRAFT 1/~WRL0003.tmp",
-    "DRAFT 1/~WRD0002.tmp",
-    "DRAFT 1/Outline/Planning.md",
-    "DRAFT 1/Outline/Word count.md",
-    "DRAFT 1/Chapter 9 (When Two worlds meet - II).md",
-    "DRAFT 1/Chapter 8 (When Two worlds meet - I).md",
-    "DRAFT 1/Outline/Planned books.md",
-    "World-Building/World dynamics/MapChart_Map (1).png",
-    "World-Building/World dynamics/Screenshot 2025-08-18 121547.png",
-    "World-Building/World dynamics/Screenshot 2025-08-18 115914.png",
-    "World-Building/World dynamics/Screenshot 2025-08-17 133426.png",
-    "World-Building/World dynamics/Screenshot 2025-08-17 133413.png",
-    "World-Building/World dynamics/MapChart_Map_thwest.png",
-    "Setup/World dynamics/R.png",
     "Untitled.canvas"
   ]
 }
