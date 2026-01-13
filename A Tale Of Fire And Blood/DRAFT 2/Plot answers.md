@@ -5,4 +5,4 @@ Ans: Because one of the scouts they sent was compromised and a Kantari man retur
 # Fixes
 
 1. Add Maria in the scenes where she is missing, during her stay in Zevaragrad.
-2. A Vargoth spy, will be in Zevaran court. A Minister named Eleric (Original name -> Gunnar) who had provided Vargoth the intel to infiltrate the Zevaran borders.
+2. A Vargoth spy, will be in Zevaran court. A Minister named Eleric (Original name -> Gunnar) who had provided Vargoth the intel to infiltrate the Zevaran borders. or simply Nikolai is the spy.
