@@ -5,3 +5,4 @@ Ans: Because one of the scouts they sent was compromised and a Kantari man retur
 # Fixes
 
 1. Add Maria in the scenes where she is missing, during her stay in Zevaragrad.
+2. 
