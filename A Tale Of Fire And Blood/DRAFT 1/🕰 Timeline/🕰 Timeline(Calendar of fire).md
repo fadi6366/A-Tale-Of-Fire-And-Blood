@@ -29,7 +29,7 @@
 | 7 BC                             | [[War of the bride]].                                                                                                                                      |
 | 7 BC                             | Marriage of [[Arkan Zevaran I the Conqueror]] and [[Rosavelle Zevaran]]                                                                                    |
 | 5 BC                             | Death of [[Zevaras]] and [[Arkan Zevaran I the Conqueror]] becomes lord of [[Ashveil]].                                                                    |
-| 0 AC                             | [[Arkan's war]] — [[Arkan Zevaran I the Conqueror]] starts conquest of half the of the [[1st world]].                                                      |
+| 0 AC                             | [[Arkan's war]] — [[Arkan Zevaran I the Conqueror]] starts conquest of half the of the [[Ignaria]].                                                      |
 | 48 AC                            | Death of [[Arkan Zevaran I the Conqueror]] .                                                                                                               |
 | 50 AC                            | Death of [[Rosavelle Zevaran]].                                                                                                                            |
 | 110 AC                           | Arkan's Great grand son's war with the Vargoth.                                                                                                            |

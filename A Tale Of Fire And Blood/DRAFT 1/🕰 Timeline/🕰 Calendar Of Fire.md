@@ -1,4 +1,4 @@
-- Founded by [[Arkan Zevaran I the Conqueror]] to mark the start of his conquest of the [[1st world]] and foundation of the [[Zevaran Dynasty]].
+- Founded by [[Arkan Zevaran I the Conqueror]] to mark the start of his conquest of the [[Ignaria]] and foundation of the [[Zevaran Dynasty]].
 - 12 Months.
 - weeks are 7 days
 - Leap year after 8 years
